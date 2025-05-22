@@ -7,7 +7,9 @@ Apesar de fazerem referência ao simulador do Wokwi esse projeto, funciona em di
 # Notas da versão Publicador
 
 Baseado no original de: Copyright (C) 2022, Uri Shaked
+
 https://wokwi.com/arduino/projects/322577683855704658
+
 Mudanças do original Sob Licença Apache 2.0
 
 Este projeto trabalha em conjunto com outro
@@ -30,7 +32,9 @@ a mensagem aparece no MQTT Broker, no painel "Mensagens".
 # Notas da Versão Leitor
 
 Baseado no original de Copyright (C) 2022, Uri Shaked
+
 https://wokwi.com/arduino/projects/315787266233467457
+
 Mudanças do original Sob Licença Apache 2.0
 
 Este projeto trabalha em conjunto com outro
