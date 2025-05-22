@@ -2,7 +2,7 @@
 Este projeto via demonstrar a utilização do ESP32 se comunicando com um MQTT aberto e de fácil utilização. Tanto agindo como Publicador, como Leitor. 
 
 
-# '''Notas da versão Publicador
+# Notas da versão Publicador
 Baseado no original de: Copyright (C) 2022, Uri Shaked
 https://wokwi.com/arduino/projects/322577683855704658
 Mudanças do original Sob Licença Apache 2.0
@@ -22,9 +22,9 @@ Para visualizar os dados sem o outro projeto:
 Agora clique no sensor HC-SR04 na simulação,
 altere a distância e você verá
 a mensagem aparece no MQTT Broker, no painel "Mensagens".
-'''
 
-# '''Notas da Versão Leitor
+
+# Notas da Versão Leitor
 Baseado no original de Copyright (C) 2022, Uri Shaked
 https://wokwi.com/arduino/projects/315787266233467457
 Mudanças do original Sob Licença Apache 2.0
@@ -42,4 +42,3 @@ Abra o site:
 3. No campo Publish, deixe o Topic como "wokwi77"
 4. Escreva alguma mensagem, por exemplo: {"Mensagem" : "Oi"} 
 5. click em "Publish"
-'''
