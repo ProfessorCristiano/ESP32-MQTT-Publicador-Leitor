@@ -2,15 +2,15 @@
 Este projeto via demonstrar a utilização do ESP32 se comunicando com um MQTT aberto e de fácil utilização. Tanto agindo como Publicador, como Leitor. 
 
 
-'''Notas da versão Publicador
-# Baseado no original de: Copyright (C) 2022, Uri Shaked
-# https://wokwi.com/arduino/projects/322577683855704658
+# '''Notas da versão Publicador
+Baseado no original de: Copyright (C) 2022, Uri Shaked
+https://wokwi.com/arduino/projects/322577683855704658
 Mudanças do original Sob Licença Apache 2.0
 
 Este projeto trabalha em conjunto com outro
 MicroPython MQTT ESP32 Leitor [Prof.Cristiano]
 Em:
-https://wokwi.com/projects/431601424527252481
+# https://wokwi.com/projects/431601424527252481
 
 Os dois tem que estar executando ao mesmo tempo.
 
@@ -24,15 +24,15 @@ altere a distância e você verá
 a mensagem aparece no MQTT Broker, no painel "Mensagens".
 '''
 
-'''Notas da Versão Leitor
-# Baseado no original de Copyright (C) 2022, Uri Shaked
-# https://wokwi.com/arduino/projects/315787266233467457
+# '''Notas da Versão Leitor
+Baseado no original de Copyright (C) 2022, Uri Shaked
+https://wokwi.com/arduino/projects/315787266233467457
 Mudanças do original Sob Licença Apache 2.0
 
 Este projeto trabalha em conjunto com outro
 MicroPython MQTT ESP32 Publicador [Prof.Cristiano]
 Em:
-https://wokwi.com/projects/431601399598404609
+# https://wokwi.com/projects/431601399598404609
 Os dois tem que estar executando ao mesmo tempo.
 
 Para testar isolado sem o outro projeto
