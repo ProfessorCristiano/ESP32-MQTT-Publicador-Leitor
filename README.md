@@ -1,13 +1,13 @@
 # ESP32-MQTT-Publicador-Leitor
 Este projeto via demonstrar a utilização do ESP32 se comunicando com um MQTT aberto e de fácil utilização. Tanto agindo como Publicador, como Leitor. 
 
+Apesar de fazerem referência ao simulador do Wokwi esse projeto, funciona em dispositivos reais desde que sejam mudados os parâmetros de conecção para uma rede Wi-Fi que tenha acesso a internet.
+
 
 # Notas da versão Publicador
 
 Baseado no original de: Copyright (C) 2022, Uri Shaked
-
 https://wokwi.com/arduino/projects/322577683855704658
-
 Mudanças do original Sob Licença Apache 2.0
 
 Este projeto trabalha em conjunto com outro
@@ -30,9 +30,7 @@ a mensagem aparece no MQTT Broker, no painel "Mensagens".
 # Notas da Versão Leitor
 
 Baseado no original de Copyright (C) 2022, Uri Shaked
-
 https://wokwi.com/arduino/projects/315787266233467457
-
 Mudanças do original Sob Licença Apache 2.0
 
 Este projeto trabalha em conjunto com outro
@@ -48,3 +46,5 @@ Abra o site:
 3. No campo Publish, deixe o Topic como "wokwi77"
 4. Escreva alguma mensagem, por exemplo: {"Mensagem" : "Oi"} 
 5. click em "Publish"
+
+OBS: A versão do Leitor para trabalhar com o i2c LCD precisará também dos arquivos "i2c_lcd.py" e lcd_api.py"
